@@ -1,0 +1,3 @@
+The archive verification_videos.7z contains verification videos for the paper "Understanding person identification via gait". 
+Each anonymization is applied to the same gait sequence. The videos should help to understand how the anonymization impact 
+the data utility. The videos are also the stimuli which we used for the user survey of our paper.
